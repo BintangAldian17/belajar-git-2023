@@ -1,1 +1,2 @@
-belajar git
+fitur no 1
+fitur no 2
